@@ -1,5 +1,5 @@
 # TC-100
-A High-Tech Conky Theme
+A High-Tech Conky Theme in four colors: white, blue, green and red.
 
 ## Requirements
 - Conky installed
