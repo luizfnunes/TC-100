@@ -34,7 +34,7 @@ conky -q -c ~/.conky/TC-100/tc100-red
 ```
 **Note:** just run one of the commands to not overwrite the previous theme.
 
-## Execute
+## Configuration
 Find out the name of the network device you want to monitor (use the commands "ip a" or "ifconfig") and copy the device name as in the image below:
 ![Terminal](https://user-images.githubusercontent.com/9018264/66083822-8517a680-e543-11e9-8d7a-50e2c4b52fb4.png)
 
